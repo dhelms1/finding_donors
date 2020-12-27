@@ -25,7 +25,7 @@ The dataset for this project originates from the [UCI Machine Learning Repositor
 - Choose best model to tune based on evaluation metrics (F-score).
 
 #### Hyperparameter Tuning:
-- Use Grid Search to find the optimal hyperparamter values based on an F-score with $\beta$ = 0.5
+- Use Grid Search to find the optimal hyperparamter values based on an F-score with &beta = 0.5
 - Plot an ROC curve and check AUC to see how our model is performing.
 
 #### Feature Importance:
